@@ -1,0 +1,164 @@
+body {
+    background-image: url(https://www.bypeople.com/wp-content/uploads/2015/05/css-dark-chain-background.png);
+}
+
+
+
+.menubar {
+ height: 100%;
+ width: 200px;
+ position: fixed;
+ top: 0;
+ left: 0;
+ background-image: url(https://sjunkins.files.wordpress.com/2012/04/the-best-top-desktop-hd-dark-black-wallpapers-dark-black-wallpaper-dark-background-dark-wallpaper-23.jpg?w=900);
+ overflow-x: hidden;
+ padding-top: 20px;
+
+}
+
+
+
+ul {
+   list-style-type:none;
+   margin:0;
+   padding: 0;
+   width: 60px;
+}
+
+i {
+    padding: 125px 8px 6px 80px;
+    text-decoration: none;
+    font-size: 20px;
+    color: #fff;
+    display: block;
+ }
+
+ li a {
+     display: block;
+ }
+
+ i:hover {
+     color: blue;
+ }
+
+ .page1_content h1  {
+    text-align: center;
+    color: #fff;
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+ }
+
+ img {
+     width: 200px;
+     height: 260px;
+     border-radius: 10px;
+
+ }
+
+img:hover {
+    box-shadow: 0 0 10px #cacaca, 0 0 40px #c0c0c0, 0 0 80px #9b9b9b;
+}
+
+
+button:hover {
+    background-color: blue;
+}
+
+.page1_content h2 {
+    text-align: center; 
+    color: #fff; 
+    font-size: 50px; 
+    min-height: 30vh;
+    
+}
+
+.page1_content p {
+    color: #fff;
+    text-align: center;
+    font-size: 18px;
+  
+}
+
+.contentRDR2 img {
+    width: 250px;
+    height: auto;
+}
+
+
+
+p {
+    color: white;
+    text-align: center;
+}
+
+
+.user input {
+    margin: 0 auto;
+    height: 35px;
+    border-radius: 5px;
+    padding: 2px;
+    width: 30%;
+    background-color: #333;
+    border: 1px solid rgb(97, 112, 243);
+    color: #fff;
+    margin-top: 10px;
+}
+
+.user input:hover {
+    width: 42%;
+    color: white;
+    transition: 0.5s ease;
+}
+
+
+.user td {
+    color: #fff;
+}
+
+
+#user {
+    color: #fff;
+}
+
+
+#submit {
+    width: 8%;
+}
+
+#submit:hover {
+    background-color: blue;
+    transition: none;
+}
+
+
+.footer {
+    display: flex;
+    justify-content: center;
+    word-spacing: 30px;
+    padding: 20px;
+    background-color: rgb(22, 22, 22);
+}
+
+
+.footer:hover a{
+    text-decoration: none;
+}
+
+.footer p  {
+    color: #fff;
+}
+
+#age {
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
+
+#result {
+    color: white;
+}
+
+.btn btn-primary {
+   height: 60px;
+}

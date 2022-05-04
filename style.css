@@ -1,0 +1,103 @@
+body {
+    background-image: url(https://cdna.artstation.com/p/assets/images/images/032/603/596/large/florian-ferrere-dualsense1.jpg?1606924449);
+}
+
+
+
+.menubar {
+ height: 100%;
+ width: 200px;
+ position: fixed;
+ top: 0;
+ left: 0;
+ background-image: url(https://sjunkins.files.wordpress.com/2012/04/the-best-top-desktop-hd-dark-black-wallpapers-dark-black-wallpaper-dark-background-dark-wallpaper-23.jpg?w=900);
+ overflow-x: hidden;
+ padding-top: 20px;
+
+}
+
+
+
+ul {
+   list-style-type:none;
+   margin:0;
+   padding: 0;
+   width: 60px;
+}
+
+i {
+    padding: 125px 8px 6px 80px;
+    text-decoration: none;
+    font-size: 20px;
+    color: #fff;
+    display: block;
+ }
+
+ li a {
+     display: block;
+ }
+
+ i:hover {
+     color: blue;
+ }
+
+ .page1_content h1  {
+    text-align: center;
+    color: #fff;
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+ }
+
+ img {
+     width: 200px;
+     height: 260px;
+     border-radius: 10px;
+
+ }
+
+img:hover {
+    box-shadow: 0 0 10px #cacaca, 0 0 40px #c0c0c0, 0 0 80px #9b9b9b;
+}
+
+
+button:hover {
+    background-color: blue;
+}
+
+.page1_content h2 {
+    text-align: center; 
+    color: #fff; 
+    font-size: 50px; 
+    min-height: 30vh;
+    
+}
+
+.page1_content p {
+    color: #fff;
+    text-align: center;
+    font-size: 18px;
+  
+}
+
+h3 {
+    color: white;
+}
+
+
+.footer {
+    display: flex;
+    justify-content: center;
+    word-spacing: 30px;
+    padding: 20px;
+    background-color: rgb(22, 22, 22);
+}
+
+
+.footer p  {
+    color: #fff;
+}
+
+.footer:hover a {
+    text-decoration: none;
+}
